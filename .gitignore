@@ -130,5 +130,5 @@ dmypy.json
 data/
 img/
 probe.ipynb
-*.docx
-*.html
+**.html
+**.docx
